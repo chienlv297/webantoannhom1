@@ -72,7 +72,10 @@
       <div
     class="p-5 text-center bg-image"
     style="
-      background-image: url(\'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLsxYQncjgVR6iwLSBeWxhGPVKsB_fCGQU0A&s\');
+      background-image: url(\'https://s.france24.com/media/display/e6279b3c-db08-11ee-b7f5-005056bf30b7/w:1280/p:16x9/news_en_1920x1080.jpg\');
+      background-position: center;
+      background-size: cover;
+      background-repeat: no-repeat;
       height: 400px;
     "
   >
@@ -92,7 +95,10 @@
     <div
   class="p-5 text-center bg-image"
   style="
-    background-image: url(\'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLsxYQncjgVR6iwLSBeWxhGPVKsB_fCGQU0A&s\');
+    background-image: url(\'https://s.france24.com/media/display/e6279b3c-db08-11ee-b7f5-005056bf30b7/w:1280/p:16x9/news_en_1920x1080.jpg\');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
     height: 400px;
     margin-top: 58px;
   "
